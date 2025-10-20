@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"[Fireball PingPong]","color":"gold"},{"text":" loaded!","color":"green"}]
